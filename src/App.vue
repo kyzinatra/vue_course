@@ -5,7 +5,7 @@
   const card = reactive({
     value1: "aa",
     value2: "bb",
-    value3: "cc",
+    value3: "cc1",
   });
 </script>
 
